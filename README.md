@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Simarpreet Singh Saluja 👋
 
-<!--
-**Simar-dweb/Simar-dweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Aspiring Data Analyst** | Currently learning Data Analysis
 
-Here are some ideas to get you started:
+📊 Recently completed **Excel** — working with formulas, pivot tables, data cleaning & visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Next up on my learning path: **SQL**, **Python**, and **Power BI**
+
+💡 I'm passionate about turning raw data into clear, meaningful insights that help in better decision-making
+
+🌱 I believe in learning consistently and documenting my progress here on GitHub
+
+---
+
+### 🛠️ Skills & Tools
+- **Completed:** Excel (Formulas, Pivot Tables, Data Cleaning, Visualization)
+- **In Progress:** SQL, Python, Power BI / Tableau
+
+---
+
+### 📫 Let's Connect
+- 📧 Email: simarpreet.saluja.26@ghsimr.ac.in
+- 💼 LinkedIn: [Simarpreet Singh Saluja](https://www.linkedin.com/in/simarpreet-singh-saluja-5ab6a2269/)
+
+---
+
+⭐️ This profile will keep updating as I learn new tools and complete new projects. Feel free to connect and collaborate!
